@@ -1,2 +1,2 @@
 # belajar-osdev-0
-progres belajar bootloader
+progres belajar menjadi OSDEV
